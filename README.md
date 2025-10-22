@@ -12,7 +12,7 @@ A **modern and interactive React application** to manage contacts. Users can **v
 
 ## ✨ Features
 
-* **View Contacts** – Displays contact cards with avatar, name, email, and age.
+* **View Contacts** – Displays contact cards list with avatar, name, email, and age which gets updated with new set of contacts each time you press the reload button.
 * **Search Contacts** – Live search by name.
 * **Add Contacts** – Add new contacts dynamically with name, email, age, and avatar URL.
 * **Toggle Age** – Show or hide age for each contact.
@@ -22,8 +22,9 @@ A **modern and interactive React application** to manage contacts. Users can **v
 
 ## 📸 Demo
 
-![App Demo](demo.gif)
-*Replace `demo.gif` with your actual screen recording or GIF.*
+![App Demo](https://contact-list-react-seven.vercel.app/)
+<img width="1822" height="908" alt="image" src="https://github.com/user-attachments/assets/b8270fdb-a9f3-4c26-8c78-fcecce63f1ce" />
+
 
 ---
 
