@@ -22,7 +22,7 @@ A **modern and interactive React application** to manage contacts. Users can **v
 
 ## 📸 Demo
 
-![App Demo]
+App Demo
 https://contact-list-react-seven.vercel.app/
 
 
