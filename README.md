@@ -23,6 +23,8 @@ A **modern and interactive React application** to manage contacts. Users can **v
 ## 📸 Demo
 
 ![App Demo](https://contact-list-react-seven.vercel.app/)
+
+
 <img width="1822" height="908" alt="image" src="https://github.com/user-attachments/assets/b8270fdb-a9f3-4c26-8c78-fcecce63f1ce" />
 
 
