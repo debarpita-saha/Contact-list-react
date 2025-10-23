@@ -2,10 +2,6 @@
 
 # 🌟 React Contact List App
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react\&logoColor=white)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/<your-username>/<repo-name>)](https://github.com/<your-username>/<repo-name>/issues)
-
 A **modern and interactive React application** to manage contacts. Users can **view, search, and add contacts** dynamically. Built using **React Hooks** with a responsive and fancy UI.
 
 ---
@@ -22,7 +18,8 @@ A **modern and interactive React application** to manage contacts. Users can **v
 
 ## 📸 Demo
 
-App Demo
+App Demo - 
+
 https://contact-list-react-seven.vercel.app/
 
 
